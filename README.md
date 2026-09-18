@@ -1,7 +1,6 @@
 # Beka Danelia
 
-QA Engineer | Manual & Automation Testing | Banking & Fintech
-Tbilisi, Georgia
+QA Engineer | Manual & Automation Testing | Banking & Fintech | Tbilisi, Georgia
 
 Five years testing software for banks and fintech platforms. ISTQB certified. Comfortable both in manual test design and in building automation frameworks when a project calls for one.
 

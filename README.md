@@ -18,5 +18,5 @@ Recent highlight: built a Selenium and Java automation framework from scratch th
 [credo authorization tests](https://github.com/bekadanelia/credo-authorization-tests). A Selenium and TestNG suite covering negative login scenarios for a live banking site, run across Georgian, English, and Russian.
 
 ## Reach me
-[Upwrok](https://www.upwork.com/freelancers/~01dfd08fa27d6be6c9)
+[Upwork](https://www.upwork.com/freelancers/~01dfd08fa27d6be6c9)
 [Linkedin](https://www.linkedin.com/in/beka-danelia/)
